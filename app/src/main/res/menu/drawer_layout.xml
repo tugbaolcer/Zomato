@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Adana"
+        android:id="@+id/adana"
+        android:icon="@drawable/ic_location_city_black_24dp"
+        />
+    <item
+        android:title="Ankara"
+        android:id="@+id/ankara"
+        android:icon="@drawable/ic_location_city_black_24dp"
+
+        />
+
+    <item
+        android:title="Eskişehir"
+        android:id="@+id/eskisehir"
+        android:icon="@drawable/ic_location_city_black_24dp"
+        />
+
+    <item
+        android:title="İzmir"
+        android:id="@+id/izmir"
+        android:icon="@drawable/ic_location_city_black_24dp"/>
+
+    <item android:title="Konya"
+        android:id="@+id/konya"
+        android:icon="@drawable/ic_location_city_black_24dp"
+
+        />
+</menu>

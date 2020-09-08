@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Zomato</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_harita">Map</string>
+    <string name="location_on_access_denied">Ne Yesem uygulaması size yakın konumdaki restoranları göstermek için konum bilgisine ihtiyaç duyar. Lütfen konum izinlerini açın. </string>
+    <string name="sure_to_exit">Çıkmak İstediğinize Emin Misiniz ?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="try_again">Tekrar deneyin</string>
+</resources>
